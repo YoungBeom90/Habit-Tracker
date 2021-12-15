@@ -56,7 +56,7 @@ class App extends Component {
           onAdd={this.handleAdd}
         />
       </>
-    )
+    );
 
   }
 }
