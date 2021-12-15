@@ -35,7 +35,7 @@ class Habits extends Component {
                                 onDecrement={this.handleDecrement} 
                                 onDelete={this.handleDelete} 
                             />
-                        )
+                        );
                     })
                 }
             </ul>
